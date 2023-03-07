@@ -1,3 +1,4 @@
 Archivo de prueba reto practico GIT FLOW 
-1. primera funcion 
+1. primera función 
 2. primer bug
+3. primer hotfix
