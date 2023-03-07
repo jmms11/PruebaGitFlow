@@ -4,3 +4,4 @@ Archivo de prueba reto practico GIT FLOW
 3. primer hotfix
 4. segunda función
 5. segundo bug
+6. segundo hotfix
